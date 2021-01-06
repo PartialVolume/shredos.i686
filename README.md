@@ -1,4 +1,5 @@
-# ShredOS 2020.02
+# ShredOS i686 for all Intel 32bit x86 processors up to and including the Pentium 4
+for the 64 bit version of ShredOS see [ShredOS x86_64](https://github.com/PartialVolume/shredos.2020.02)
 
 [![](https://img.shields.io/github/downloads/PartialVolume/shredos.2020.02/latest/total.svg "Latest version")](https://github.com/PartialVolume/shredos.2020.02/releases/latest)
 [![](https://img.shields.io/github/downloads/PartialVolume/shredos.2020.02/v2020.02.004-0.29.006/total.svg "v2020.02.004-0.29.006")](https://github.com/PartialVolume/shredos.2020.02/releases/v2020.02.004-0.29.006)
